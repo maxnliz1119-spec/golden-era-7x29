@@ -1,0 +1,15 @@
+{
+  "name": "她的黄金时代",
+  "short_name": "黄金时代",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf7",
+  "theme_color": "#f4e8e3",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "wang": {
+    "name": "王安宇",
+    "file": "portraits/wang_anyu.png",
+    "source": "暖米色背景下的学院风男士肖像"
+  },
+  "zhang": {
+    "name": "张凌赫",
+    "file": "portraits/zhang_linghe.png",
+    "source": "冷调背景下的优雅男士肖像"
+  },
+  "song": {
+    "name": "宋威龙",
+    "file": "portraits/song_weilong.png",
+    "source": "深色背景下的时尚男士肖像"
+  },
+  "hou": {
+    "name": "侯明昊",
+    "file": "portraits/hou_minghao.png",
+    "source": "温暖微笑的潮流男士肖像"
+  },
+  "chengman": {
+    "name": "程曼",
+    "file": "portraits/cheng_man.png",
+    "source": "优雅自信的职场肖像"
+  },
+  "chengzhi": {
+    "name": "程知远",
+    "file": "portraits/cheng_zhiyuan.png",
+    "source": "优雅金色背景中的东方女性肖像"
+  },
+  "atao": {
+    "name": "阿桃",
+    "file": "portraits/a_tao.png",
+    "source": "专业风年轻女性肖像"
+  },
+  "mom": {
+    "name": "妈妈",
+    "file": "portraits/mom.png",
+    "source": "温暖室内的优雅微笑肖像"
+  }
+}
